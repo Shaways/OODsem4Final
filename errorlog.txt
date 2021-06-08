@@ -1,0 +1,232 @@
+3 juni 2021 18:46:40
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.execution(View.java:61)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+3 juni 2021 18:46:40
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.execution(View.java:75)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+3 juni 2021 18:52:12
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.execution(View.java:61)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+3 juni 2021 18:52:12
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.execution(View.java:75)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+6 juni 2021 15:22:12
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:61)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+6 juni 2021 15:22:12
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:75)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+6 juni 2021 15:49:56
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:61)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+6 juni 2021 15:49:56
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:75)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+6 juni 2021 15:52:31
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:61)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+6 juni 2021 15:52:32
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:75)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+7 juni 2021 12:37:50
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:61)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+7 juni 2021 12:37:50
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:75)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+7 juni 2021 13:29:29
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:61)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+7 juni 2021 13:29:30
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:75)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+7 juni 2021 13:34:58
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:61)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+7 juni 2021 13:34:59
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:75)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+7 juni 2021 14:00:27
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:61)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+7 juni 2021 14:00:27
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:75)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+7 juni 2021 14:15:40
+Exception was thrown: Database can not be called.
+Stack trace:
+7 juni 2021 14:15:40
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:61)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:61)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+7 juni 2021 14:15:40
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:75)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+7 juni 2021 14:15:40
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:75)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:61)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:75)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+7 juni 2021 14:18:42
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:61)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
+7 juni 2021 14:18:42
+Exception was thrown: Database can not be called.
+Stack trace:
+se.kth.iv1350.seminar4.Integration.InventorySystemException: Database can not be called.
+	at se.kth.iv1350.seminar4.Integration.InventorySystem.fetchItem(InventorySystem.java:43)
+	at se.kth.iv1350.seminar4.controller.Controller.scanItem(Controller.java:73)
+	at se.kth.iv1350.seminar4.view.View.scanItemExecution(View.java:34)
+	at se.kth.iv1350.seminar4.view.View.fakeExecution(View.java:75)
+	at se.kth.iv1350.seminar4.startup.Main.main(Main.java:22)
